@@ -1,3 +1,9 @@
+### NOTE:
+This project has been moved to the independent Halcyon simulator project under:
+* https://github.com/HalcyonGrid/PhysX.net
+
+---
+
 # PhysX.net
 A fork of stilldesign/PhysX.Net with patches/changes that weren't applied. 
 
